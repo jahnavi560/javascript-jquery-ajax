@@ -1,6 +1,6 @@
 # Wine Cellar Application #
 
-The Wine Cellar application is documented [here](http://coenraets.org).
+The Wine Cellar application is documented.
 
 This application provides an example of 
 Building a complete RESTful API in Java using JAX-RS and Jersey.
